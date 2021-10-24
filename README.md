@@ -1,6 +1,6 @@
 ## Kaggle Competition: Bike Sharing Demand
 
-+ Ranging Top 16.5%
++ Ranking Top 16.5%
 + competition url: https://pse.is/3rryf8
 
 ### Competition Description:
